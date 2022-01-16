@@ -14,7 +14,9 @@ Steve’s Parents are interest on investing in green energy and has requested St
 Looking at the “Total Daily Volume” performance, it shows that certain organization’s (Ticker’s) transaction volume have increased and some’s not. The most significant rise in volume transaction can be seen in Ticker DQ (201% increment in volume transaction in 2018 compared to 2018) and in Ticker ENPH (174% increment in volume transaction in 2018 compared to 2017) 
 
 However, in observing the return, DQ has made a negative Yearly Return performance in compared with its 2017 performance (2017 Yearly Return : 199.4% & 2018 Yearly Return : -62.6%). This raise an alarm in investing in DQ stocks. (Refer https://github.com/thilinimfdo/VBA_Challenge/blob/main/Resources/VBA_Challange_2017.png & https://github.com/thilinimfdo/VBA_Challenge/blob/main/Resources/VBA_Challage_2018.png)
+
 •	Why the Stock transaction Volume has increase?
+
 •	But not the Yearly Return?
 
 This can be assumed that the organization financial performance may not healthy and as a result the current investors are trying to sell their stocks to move out from DQ. And as the demand for DQ stock does not Rise as the Volume of Stocks put the market to sell may drop the Stock prices of the company. This may not a favourable alarming to invest in DQ. 
